@@ -1,3 +1,7 @@
+# Scegli la torta
+
+Buogiorno a tutti! Sembra che la mia assunzione sia stata confermata, :) quindi potete cliccare su una delle opzioni qui sotto per votare il gusto della torta che vi piace di più. Comprerò quella con il maggior numero di punti, ma scegliete bene...è consentito un solo voto a testa >:D !!!
+
 [![](https://api.gh-polls.com/poll/01D9S5AVZW44GGVNPAMRRGMG1N/Torta%20Foresta%20Nera)](https://api.gh-polls.com/poll/01D9S5AVZW44GGVNPAMRRGMG1N/Torta%20Foresta%20Nera/vote)
 [![](https://api.gh-polls.com/poll/01D9S5AVZW44GGVNPAMRRGMG1N/Torta%20Mokaccino)](https://api.gh-polls.com/poll/01D9S5AVZW44GGVNPAMRRGMG1N/Torta%20Mokaccino/vote)
 [![](https://api.gh-polls.com/poll/01D9S5AVZW44GGVNPAMRRGMG1N/Torta%20Zuppa%20Inglese)](https://api.gh-polls.com/poll/01D9S5AVZW44GGVNPAMRRGMG1N/Torta%20Zuppa%20Inglese/vote)
